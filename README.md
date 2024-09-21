@@ -1,4 +1,4 @@
-# Security of Large Language Models (LLM) - Prompt Injection Classification
+# SafePrompt: Detection and Classification of Prompt Injection in LLMs
 In this project, we investigate the security of large language models in terms of [prompt injection attacks](https://www.techopedia.com/definition/prompt-injection-attack). Primarily, we perform binary classification of a dataset of input prompts in order to discover malicious prompts that represent injections.
 
 *In short: prompt injections aim at manipulating the LLM using crafted input prompts to steer the model into ignoring previous instructions and, thus, performing unintended actions.*
